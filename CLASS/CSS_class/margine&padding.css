@@ -1,0 +1,43 @@
+.demo{
+    border: 2px double red;
+    width: 20%;
+    height: 40px;
+    background-color: aqua;
+    margin-top: 100px;
+    margin-right: 50px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    text-align: center;
+    border-radius: 30px;
+}
+.demo1{
+    border: 2px double red;
+    width: 20%;
+    height: 40px;
+    background-color: aqua;
+    text-align: center;
+    border-radius: 30px;
+    margin: 10px 50px 10px 50px;/* This is shortcut for margin taking in 1 line top, right, bottom and left */
+}
+.demo2{
+    border: 2px double red;
+    width: 20%;
+    height: 40px;
+    background-color: aqua;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 40px;
+    padding-left: 10px;
+    text-align: center;
+    border-radius: 30px;
+}
+.demo3{
+    border: 2px double red;
+    width: 20%;
+    height: 40px;
+    margin-top: 20px;
+    background-color: aqua;
+    text-align: center;
+    border-radius: 30px;
+    padding: 10px 10px 30px 10px;
+}

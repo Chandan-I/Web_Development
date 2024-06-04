@@ -1,0 +1,24 @@
+.text-red{
+    color: red;
+    text-align: justify;
+}
+.text-green{
+    color: green;
+    text-decoration: wavy;
+}
+.text-orange{
+    color: orange;
+    text-transform: capitalize;
+}
+#text-aqua{
+    color: aqua;
+    text-transform: unset;
+}
+h3{
+    color: pink;
+    font-family: Verdana;
+}
+#end{
+    color: grey;
+    font-family: cursive;
+}

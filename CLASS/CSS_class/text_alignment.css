@@ -1,0 +1,23 @@
+.demo{
+    border: 2px solid blue;
+    width: 500px;
+    height: 500px;
+    border-radius: 10px;
+    background-color: aqua;
+    text-align: right;
+    padding-top: 10px;
+    text-decoration: dashed;
+    letter-spacing: 2px;
+    text-shadow: 3px 2px red;
+}
+.demo1{
+    border: 2px solid red;
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: white;
+    text-align: center;
+    margin-left: 25%;
+    padding-top: 10px;
+    word-spacing: 5px;/* similarly we can use line spacing and line height*/
+}

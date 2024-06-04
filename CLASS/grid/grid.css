@@ -1,0 +1,20 @@
+.item{
+    border: 1px solid;
+    background-color: aqua;
+    text-align: center;
+    padding: 40px 0;
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: 100px 100px 100px;/*Repeate function can be used here as used in below line7*/
+    grid-template-rows: repeat(3,100px);
+}
+.item1{
+
+}
+.item2{
+
+}
+.item3{
+
+}

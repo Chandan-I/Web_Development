@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    /* display: grid; */
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+    background-color: aquamarine;
+    padding: 20px;
+}
+
+.container {
+    text-align: center;
+    border: 1px solid blue;
+    margin: 10% 30%;
+    border-radius: 10px;
+    background-color: aqua;5
+}
+div {
+    margin-bottom: 20px;
+}
+button {
+    margin: 5px;
+    padding: 10px 20px;
+    border: 1px solid blue;
+    border-radius: 8px;
+    background-color: #007bff;
+    color: white;
+}
+#result {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 25px;
+    font-family: Verdana;
+}

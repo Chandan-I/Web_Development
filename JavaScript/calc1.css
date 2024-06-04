@@ -1,0 +1,35 @@
+.container{
+    border: 2px solid red;
+    padding: 30px;
+    align-items: center;
+    border-radius: 20px;
+    width: 60vh;
+    height: auto;
+    background-color: aqua;
+    margin-top: 18%;
+    margin-left: 30%;
+}
+.a{
+    color: #f9004d;
+    text-decoration: underline;
+}
+.btn{
+    background-color: rgb(25, 25, 193);
+    color: white;
+    font-size: 20px;
+    border: 1px solid blue;
+    border-radius: 15px;
+    margin: 25px 180px;
+    cursor: pointer;
+}
+.btn:hover{
+    color: #f9004d;
+    transition: .4s;
+    transform: scale(1.5);
+}
+footer{
+    font-family: cursive;
+    font-size: 10px;
+    color: #f9004d;
+    margin-left: 90%;
+}

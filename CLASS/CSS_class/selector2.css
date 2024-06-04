@@ -1,0 +1,10 @@
+.demo{
+    color: red;
+    text-align: center;
+    border: 1px solid green;
+    width: 20%;
+    height: 80px;
+    background-color: aqua;
+    border-radius: 100px;
+    background-attachment: fixed; /*This is used to keep a part or division fixed even when it is being scrolled*/
+}
